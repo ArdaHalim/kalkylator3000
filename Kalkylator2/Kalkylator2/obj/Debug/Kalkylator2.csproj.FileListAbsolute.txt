@@ -1,0 +1,9 @@
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\bin\Debug\Kalkylator2.exe
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\bin\Debug\Kalkylator2.pdb
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.csproj.AssemblyReference.cache
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.Form1.resources
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.Properties.Resources.resources
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.csproj.GenerateResource.cache
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.csproj.CoreCompileInputs.cache
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.exe
+C:\Users\arda.halim\Desktop\C#\Kalkylator2\Kalkylator2\obj\Debug\Kalkylator2.pdb
